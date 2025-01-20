@@ -1,4 +1,4 @@
 # apnacollege
 This is my first Git Repositry.
 <br>
-Author- Sayan Nayek.
+Author- Sayan Nayek(Sayannayek101).
